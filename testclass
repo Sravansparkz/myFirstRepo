@@ -1,0 +1,4 @@
+@isTest
+Private class myTest{
+  //test logic
+}
